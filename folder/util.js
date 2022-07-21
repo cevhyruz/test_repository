@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         util.js
 // @description  Utility to provide helper functions for scripting userscripts.
-// @version      0.1
+// @version      1.0
 // @downloadURL  https://github.com/cevhyruz/test_repository/blob/main/folder/util.js
 // @updateURL    https://github.com/cevhyruz/test_repository/blob/main/folder/util.js
 //
