@@ -2,6 +2,7 @@
 // @name         util.js
 // @description  Utility to provide helper functions for scripting userscripts.
 // @version      0.1
+// @downloadURL  https://github.com/cevhyruz/test_repository/blob/main/folder/util.js
 // @updateURL    https://github.com/cevhyruz/test_repository/blob/main/folder/util.js
 //
 // @author       cevhyruz <johnfred.fadrigalan@hotmail.com>
@@ -14,6 +15,7 @@
 // @grant        none
 // ==/UserScript==
 
+alert('from test')
 (function(window) {
   'use strict'
 
