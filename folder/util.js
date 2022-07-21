@@ -2,6 +2,7 @@
 // @name         util.js
 // @description  Utility to provide helper functions for scripting userscripts.
 // @version      0.1
+// @updateURL    https://github.com/cevhyruz/test_repository/blob/main/folder/util.js
 //
 // @author       cevhyruz <johnfred.fadrigalan@hotmail.com>
 // @namespace    dotfiles.userscripts
